@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Namaste React Course by Akshay Saini Sir",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham72-73/Namaste-React.git"
+  },
+  "keywords": [
+    "NamasteReact"
+  ],
+  "author": "Shubham Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham72-73/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/shubham72-73/Namaste-React#readme"
+}
